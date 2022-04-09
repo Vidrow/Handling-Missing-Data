@@ -9,3 +9,8 @@ Know about all the different techniques to handle missing data to make better ML
     <p>dropna() function deletes all the null values</p>
   </div>
   
+
+
+<h2>Multivariate Imputations</h2>
+
+  
