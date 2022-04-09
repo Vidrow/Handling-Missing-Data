@@ -3,6 +3,6 @@ Know about all the different techniques to handle missing data to make better ML
 
 <h2>Complete Case Analysis<h2>
   <div>
-    <p>It is a technique in which the null value data is deleted considering some constraints.<p>
+    <p>It is a technique in which the null value data is deleted considering some constraints.</p>
   </div>
   
