@@ -7,5 +7,5 @@ For missing at random (MAR) or missing completely at random (MCAR) the CCA estim
 For Missing not at random (MNAR) scenarios the bias will be reduced and can be trouble. So,red signal
 
 <h2>Blogs to dive deeper</h2>
-<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4957845/#:~:text=Complete%20case%20(CC)%20analysis%20is,as%20the%20preferred%20analytical%20approach.">Complete Case Analysis vs Multiple Imputation</a>
+<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4957845/#:~:text=Complete%20case%20(CC)%20analysis%20is,as%20the%20preferred%20analytical%20approach.">Complete Case Analysis vs Multiple Imputation</a><br>
 <a href="https://thestatsgeek.com/2013/07/06/when-is-complete-case-analysis-unbiased/">When to choose CCA</a>
