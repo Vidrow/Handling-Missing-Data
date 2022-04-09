@@ -5,5 +5,6 @@ Know about all the different techniques to handle missing data to make better ML
 <div>
     <p>It is a technique in which the null value data is deleted considering some constraints.</p>
     <code>new_data = data[col].dropna()</code>
+    <p>dropna() function deletes all the null values</p>
   </div>
   
